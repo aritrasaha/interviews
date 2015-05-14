@@ -1,0 +1,33 @@
+{
+  "title": "Cat Slideshow",
+  "images": [
+    {
+      "caption": "Time to Prayer",
+      "path": "images/200_cute_cat_praying-1920x1200.jpg"
+    },
+    {
+      "caption": "See, I am Flying",
+      "path": "images/200_Cute-Cats-007.jpg"
+    },
+    {
+      "caption": "I am looking at you",
+      "path": "images/200_Cute-Cats-008.jpg"
+    },
+    {
+      "caption": "Wanna Play with me?",
+      "path": "images/200_Cute-Cats-063.jpg"
+    },
+    {
+      "caption": "See, that raibow",
+      "path": "images/200_Cute-Cats-101.jpg"
+    },
+    {
+      "caption": "See, my hill climbing",
+      "path": "images/tumblr_m2sv7p4ayD1r73wdao1_250.gif"
+    },
+    {
+      "caption": "Can you catch us?",
+      "path": "images/Animals_Cats_Wallpapers.jpg"
+    }
+  ]
+}

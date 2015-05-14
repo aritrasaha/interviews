@@ -1,0 +1,37 @@
+.slideshow {
+    margin: 20px;
+    padding: 10px;
+    width: 300px;
+    border: 1px double black;
+    float: left;
+}
+
+.slideshow .title {
+    text-align: center;
+    margin: 0px;
+}
+
+.slideshow img {
+    margin-top: 10px;
+    border: 1px solid red;
+    height: 200px;
+    width: 300px;
+}
+
+.slideshow .caption {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.slideshow .toolbar {
+    margin-top: 10px;
+}
+
+.slideshow .toolbar button {
+    width: 100px;
+    padding: 5px;
+}
+
+.clearfix {
+    clear: both;
+}
