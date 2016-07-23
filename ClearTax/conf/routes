@@ -1,0 +1,12 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET        /                    com.cleartax.controllers.HomeController.index
+
+GET        /users               com.cleartax.controllers.UserController.getUsers
+GET        /users/:id           com.cleartax.controllers.UserController.getUser(id: Integer)
+
+# Map static resources from the /public folder to the /assets URL path
+GET        /assets/*file        controllers.Assets.at(path="/public", file)
