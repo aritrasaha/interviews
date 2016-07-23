@@ -16,8 +16,8 @@
 - External test cases (HTTP based test case) that will demonstrate that the rate limiting is actually applied.
 
 **How to Execute:**
-- `unzip cleartrip-1.0.zip`
-- `cd cleartrip-1.0.zip`
+- `unzip cleartax-1.0.zip`
+- `cd cleartax-1.0.zip`
 - `chmod +x ./bin/cleartax`
 - `./bin/cleartax -Dhttp.port=XXXX` (default port is 9000)
-- open `http://localhost:XXXX`
+- open `http://localhost:XXXX` on your browser
